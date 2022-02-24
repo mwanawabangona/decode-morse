@@ -1,1 +1,1 @@
-gem 'rubocop-rspec', '~> 2.3.8'
+gem 'rubocop-rspec', '~> 3.1.0'
