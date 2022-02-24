@@ -17,9 +17,9 @@ To get a local copy up and running follow these simple example steps.
 Clone the project by using terminal:
 
 ```
-https://github.com/nevisende/decode-morse
+https://github.com/mwanawabangona/morse_code
 
-ruby decode_morse.rb
+morse_code.rb
 
 ```
 
