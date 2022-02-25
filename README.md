@@ -34,6 +34,7 @@ morse_code.rb
 
 👤 **Lilian Moraa** 
 - GitHub: [@](https://github.com/lily-coder)
+- LinkedIn: [Lilian Moraa](https://www.linkedin.com/in/lilian-moraa-99950b1b8/)
 
 
 ## 🤝 Contributing
