@@ -26,7 +26,7 @@ puts decode_word('-- -.--')
 
 def decode(message)
   decoded_message = []
-  word = message.split('  ')
+  word = message.split('   ')
   word.each do |w|
     decoded_message << decode_word(w)
   end
