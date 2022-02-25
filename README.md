@@ -23,8 +23,6 @@ morse_code.rb
 
 ```
 
-
-
 ### Prerequisites
 
 -Ruby
@@ -42,7 +40,7 @@ morse_code.rb
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/mwanawabangona/decode-morse/issues).
 
 ## Show your support
 
